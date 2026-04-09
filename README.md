@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Mateusz 👋
 
 > Backend Developer → aspiring Software Architect
 
