@@ -25,14 +25,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MateuszBednarczyk04&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📚 Currently into
 
 - 📐 System Design & Software Architecture patterns
@@ -42,6 +34,13 @@
 - 🧩 API design patterns
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MateuszBednarczyk04&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ### 📫 Get in touch
 
