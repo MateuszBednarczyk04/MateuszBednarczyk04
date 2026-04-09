@@ -1,4 +1,4 @@
-# Hi, I'm Mateusz 👋
+# Hi, I'm Mateusz Bednarczyk 👋
 
 > Backend Developer → aspiring Software Architect
 
@@ -22,6 +22,19 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MateuszBednarczyk04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszBednarczyk04&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MateuszBednarczyk04&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
