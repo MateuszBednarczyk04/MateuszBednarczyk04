@@ -4,9 +4,9 @@
 
 ---
 
-🎓 **Computer Science student** at Gdańsk University of Technology
-💼 **Software Developer** — focused on backend systems & APIs
-🏗️ Currently leveling up toward **Software Architecture**
+🎓 **Computer Science student** at Gdańsk University of Technology <br>
+💼 **Software Developer** — focused on backend systems & APIs <br>
+🏗️ Currently leveling up toward **Software Architecture** <br>
 🤖 Playing around with **AI** in my spare time — always learning
 
 ---
